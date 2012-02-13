@@ -1,0 +1,23 @@
+<xml>
+	<!-- Events -->
+	<module type="chobani_event">
+		<files>
+			<file type="js" path="{themeDir}/admin/events/js/events.js" />
+		</files>
+	</module>
+
+	<!-- Home Carousel -->
+	<module type="chobani_carousel">
+		<files></files>
+	</module>
+
+	<!-- Product Types -->
+	<module type="chobani_product_type">
+		<files></files>
+	</module>
+
+	<!-- Product Types -->
+	<module type="chobani_products">
+		<files></files>
+	</module>
+</xml>
